@@ -49,7 +49,5 @@ You can register a new account or login with an existing one.
 
 ## Team
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
-
 MIT © [Mradul Jain](https://github.com/jainmradul676)
 
